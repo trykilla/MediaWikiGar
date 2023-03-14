@@ -11,4 +11,4 @@ de **apache-2** como proveedor de servidor.
 
 Por una parte en la carpeta *doc* encontramos cualquier tipo de documentos utilizados para el trabajo; en nuestro caso el [Power_Point](doc/MediaWiki_PPT.pptx) 
 
-Por otro lado, en la carpeta *demo*, almacenamos algunos archivos de configuración como puede ser [LocalSettings.php](demo/LocalSettings.php) 
+Por otro lado, en la carpeta *demo*, almacenamos algunos archivos de configuración como puede ser [LocalSettings.php](demo/site_config/LocalSettings.php) 
